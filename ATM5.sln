@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM5", "ATM5\ATM5.csproj", "{47114267-7194-4BA6-B77C-F2724DAA9466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM5.Tests", "ATM5.Tests\ATM5.Tests.csproj", "{2B53C5B0-EDAD-4E49-AB56-F5B2F680871E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47114267-7194-4BA6-B77C-F2724DAA9466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47114267-7194-4BA6-B77C-F2724DAA9466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47114267-7194-4BA6-B77C-F2724DAA9466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47114267-7194-4BA6-B77C-F2724DAA9466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B53C5B0-EDAD-4E49-AB56-F5B2F680871E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B53C5B0-EDAD-4E49-AB56-F5B2F680871E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B53C5B0-EDAD-4E49-AB56-F5B2F680871E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B53C5B0-EDAD-4E49-AB56-F5B2F680871E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
